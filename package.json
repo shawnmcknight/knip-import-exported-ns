@@ -1,0 +1,17 @@
+{
+  "name": "knip-import-exported-ns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "knip": "knip"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.14.7",
+    "knip": "^5.22.2",
+    "typescript": "^5.5.2"
+  }
+}
